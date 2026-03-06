@@ -655,7 +655,7 @@
           box-shadow: 0 8px 25px rgba(255, 107, 157, 0.8);
       }
   }
-
+/* 
   .settings-button {
       position: fixed;
       top: 20px;
@@ -684,7 +684,7 @@
 
   .settings-button:active {
       transform: scale(0.95);
-  }
+  } */
 
   /* Modal container */
   .modal {
@@ -1038,13 +1038,13 @@
           right: 10px;
       }
 
-      .settings-button {
+      /* .settings-button {
           width: 35px;
           height: 35px;
           font-size: 18px;
           top: 10px;
           right: 65px;
-      }
+      } */
 
       .modal-content {
           width: 89%;
@@ -1053,50 +1053,7 @@
 
       }
 
-      #settingsModal .modal-header {
-          position: static !important;
-          /* Không sticky/fixed */
-          background: none !important;
-          /* Bỏ background */
-          padding: 0px 8px !important;
-          /* Giảm padding */
-          min-height: 0 !important;
-          height: auto !important;
-          flex-direction: row !important;
-          justify-content: flex-end !important;
-          align-items: center !important;
-          border-radius: 0 !important;
-          box-shadow: none !important;
-      }
 
-      #settingsModal .modal-header h2 {
-          display: none !important;
-          /* Ẩn tiêu đề */
-      }
-
-      #settingsModal .close {
-          font-size: 22px !important;
-          color: #222 !important;
-          margin: 0 !important;
-          padding: 0 !important;
-      }
-
-      .modal-body {
-          padding: 15px;
-          overflow-y: auto;
-          max-height: calc(90vh - 70px);
-      }
-
-      .settings-section {
-          margin-bottom: 15px;
-          padding: 10px;
-      }
-
-      .settings-section h3 {
-          font-size: 16px;
-          margin: 0 0 10px;
-          padding-bottom: 5px;
-      }
 
       .form-group {
           margin-bottom: 10px;

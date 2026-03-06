@@ -3,8 +3,8 @@
 
 const translations = {
     en: {
-        title: "Happy Birthday Zahra 🎁",
-        description: "A special birthday surprise for Zahra! Click to see the special message!",
+        title: "Happy Birthday Nurjahan 🎁",
+        description: "A special birthday surprise for Nurjahan! Click to see the special message!",
         login: "Sign in with Google",
         logout: "Logout",
         settings: "Website Settings",
@@ -27,7 +27,7 @@ const translations = {
         note: "⏳ Enjoy this special birthday website!",
         follow: "💝 This special birthday website was lovingly created by WSM",
         apply: "Apply Settings",
-        copyright: 'Made with 💕 by WSM for Zahra\'s Birthday',
+        copyright: 'Made with 💕 by Mohammed Omer',
         fullscreen: "Fullscreen",
         on: "On",
         off: "Off",
